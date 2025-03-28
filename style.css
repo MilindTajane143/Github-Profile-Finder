@@ -149,7 +149,8 @@ h1 {
   .search-box button {
     padding: 6px 12px;
     font-size: 0.8rem;
-    margin-right: 200px;
+    position: relative;
+    right:100px
   }
   
 }
